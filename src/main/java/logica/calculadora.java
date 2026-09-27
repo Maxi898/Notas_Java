@@ -106,6 +106,6 @@ public class calculadora {
         if (notaDesarrollo + incremento > 5.0) {
             incremento = 5.0 - notaDesarrollo;
         }
-        notaDesarrollo = notaDesarrollo + incremento;
+        notaDesarrollo = notaDesarrollo + incremento; 
     }
 }
